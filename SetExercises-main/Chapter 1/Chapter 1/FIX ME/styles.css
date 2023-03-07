@@ -1,0 +1,23 @@
+/*Title Attributes*/
+h1 { font-size: 3rem;
+    text-align: center;
+}
+/*Chapter Attributes*/
+h2 {font-size: 1. 25rem;
+    text-align: center;
+}
+/*Paragraph Attributes*/
+p {
+    line-height: 1.3rem;
+}
+/*Author Attributes*/
+.author {
+    font-size: 1.1rem;
+    text-align: center;
+    font-style: italic; 
+}
+/*Body Attributes*/
+body{
+    background-color: aliceblue;
+    font-family: Georgia, serif;
+}

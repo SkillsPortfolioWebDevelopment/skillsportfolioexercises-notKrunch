@@ -1,0 +1,24 @@
+.menu {
+    background-color: lightsalmon;
+    overflow: hidden;
+}
+
+.menu a {
+    float: right;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 15px 17px;
+    text-shadow: yellow 1px 0 10px;
+    text-decoration: black underline;
+    font-size: 17px;
+}
+
+.menu a:hover {
+    background-color: antiquewhite;
+    color: black;
+}
+
+.menu a:active {
+    background-color: paleturquoise;
+    color: white;
+}

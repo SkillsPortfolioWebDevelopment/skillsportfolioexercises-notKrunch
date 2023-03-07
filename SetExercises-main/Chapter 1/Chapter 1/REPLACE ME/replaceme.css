@@ -1,0 +1,25 @@
+/*Body Attributes*/
+body{
+    background-color: #eeeeee;
+}
+/*Title Attributes*/
+h1{
+    font-size: 35px; 
+    color: #ff0000; 
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif; 
+    text-decoration: underline;
+}
+/*1st to 5th Paragraph Attributes*/
+.first{
+    font-size: 18px; 
+    color: #111111; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* 6th Paragraph Attributes*/
+.second{
+    font-size: 18px; 
+    color: #00ff00; 
+    font-weight: 700; 
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
