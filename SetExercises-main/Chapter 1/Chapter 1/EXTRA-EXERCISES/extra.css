@@ -1,5 +1,5 @@
 .menu {
-    background-color: lightsalmon;
+    background-color: white;
     overflow: hidden;
 }
 
@@ -14,11 +14,19 @@
 }
 
 .menu a:hover {
-    background-color: antiquewhite;
+    background-color:cyan   ;
     color: black;
 }
 
 .menu a:active {
     background-color: paleturquoise;
     color: white;
+}
+
+footer {
+    margin-top: 500px;
+}
+
+body {
+    background-color: beige;
 }
